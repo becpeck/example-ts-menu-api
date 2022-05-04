@@ -1,8 +1,8 @@
 {
   "name": "ts-menu-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Tutorial Express API for practice and examples using Typescript, from https://auth0.com/blog/node-js-and-typescript-tutorial-build-a-crud-api/",
+  "main": "src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "ts-node-dev --respawn --pretty --transpile-only src/index.ts"
